@@ -1,0 +1,15 @@
+{
+  "status": "ok"
+  "list": [
+    {
+      "model": "k40",
+      "dh": "alioth",
+      "vs": "2.0"
+    },
+    {
+      "model": "k50",
+      "dh": "rothko",
+      "vs": "2.0"
+    }
+  ]
+}
