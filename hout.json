@@ -4,5 +4,18 @@
   "download_links": {
     "windows": "https://www.xn--5brr03o.top/"
   },
-  "announcement_url": "latest_announcement.md"
+  "content": "小而美",
+  "announcement": {
+    "enabled": true,
+    "content": "目前工具箱功能正在不断完善中！有bug请及时通过qq群或者在线表格进行反馈"
+  },
+  "previous_versions": [
+    {
+      "version": "1.0.0",
+      "release_date": "2025-01-30",
+      "download_links": {
+        "windows": "https://www.xn--5brr03o.top/1.0.0/"
+      }
+    }
+  ]
 }
