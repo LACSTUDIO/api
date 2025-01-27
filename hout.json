@@ -3,7 +3,7 @@
   "release_date": "2025-01-25",
   "download_links": {
     "windows": {
-      "url": "https://www.xn--5brr03o.top/",
+      "url": "https://www.xn--5brr03o.top/"
     }
   },
   "content": "小而美",
@@ -11,85 +11,13 @@
     "enabled": true,
     "content": "新的一年祝大家刷机不砖，root不掉，系统没bug，身体健康，学业有成，工作顺利！目前工具箱功能正在不断完善中！有bug请及时通过qq群或者在线表格进行反馈"
   },
-  "apk_list": [
-    {
-      "category": "设置",
-      "apps": [
-        {
-          "name": "安卓骁龙13",
-          "download_link": {
-            "url": "https://example.com/settings_helper.apk",
-            "is_direct": true
-          }
-        },
-        {
-          "name": "安卓骁龙14",
-          "download_link": {
-            "url": "https://example.com/settings_helper.apk",
-            "is_direct": true
-          }
-        },
-        {
-          "name": "联发科",
-          "download_link": {
-            "url": "https://url.jilin9527.top/lacsmtk",
-            "is_direct": false
-          }
-        }
-      ]
-    },
-    {
-      "category": "SU",
-      "apps": [
-        {
-          "name": "SuperSU",
-          "download_link": {
-            "url": "https://example.com/supersu.apk",
-            "is_direct": true
-          }
-        },
-        {
-          "name": "Magisk",
-          "download_link": {
-            "url": "https://example.com/magisk.apk",
-            "is_direct": false
-          }
-        }
-      ]
-    },
-    {
-      "category": "玩机",
-      "apps": [
-        {
-          "name": "Xposed框架",
-          "download_link": {
-            "url": "https://example.com/xposed_framework.apk",
-            "is_direct": true
-          }
-        },
-        {
-          "name": "任务管理器",
-          "download_link": {
-            "url": "https://example.com/task_manager.apk",
-            "is_direct": false
-          }
-        }
-      ]
-    }
-  ],
   "previous_versions": [
     {
       "version": "1.0.0",
       "release_date": "2025-01-30",
       "download_links": {
         "windows": {
-          "primary": "https://example.com/previous_version_1.0.0.exe",
-          "backup": [
-            {
-              "url": "https://backup1.example.com/previous_version_1.0.0.exe",
-              "is_direct": true
-            }
-          ]
+          "url": "https://www.xn--5brr03o.top/"
         }
       }
     }
