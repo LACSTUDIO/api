@@ -4,7 +4,12 @@
   "download_links": {
     "windows": {
       "primary": "https://www.xn--5brr03o.top/",
-      "backup": "https://backup.xn--5brr03o.top/"
+      "backup": [
+        {
+          "url": "https://backup2.xn--5brr03o.top/",
+          "is_direct": false
+        }
+      ]
     }
   },
   "content": "小而美",
@@ -17,12 +22,25 @@
       "category": "设置",
       "apps": [
         {
-          "name": "设置助手",
-          "download_link": "https://example.com/settings_helper.apk"
+          "name": "安卓骁龙13",
+          "download_link": {
+            "url": "https://example.com/settings_helper.apk",
+            "is_direct": true
+          }
         },
         {
-          "name": "系统优化",
-          "download_link": "https://example.com/system_optimizer.apk"
+          "name": "安卓骁龙14",
+          "download_link": {
+            "url": "https://example.com/settings_helper.apk",
+            "is_direct": true
+          }
+        },
+        {
+          "name": "联发科",
+          "download_link": {
+            "url": "https://url.jilin9527.top/lacsmtk",
+            "is_direct": false
+          }
         }
       ]
     },
@@ -31,11 +49,17 @@
       "apps": [
         {
           "name": "SuperSU",
-          "download_link": "https://example.com/supersu.apk"
+          "download_link": {
+            "url": "https://example.com/supersu.apk",
+            "is_direct": true
+          }
         },
         {
           "name": "Magisk",
-          "download_link": "https://example.com/magisk.apk"
+          "download_link": {
+            "url": "https://example.com/magisk.apk",
+            "is_direct": false
+          }
         }
       ]
     },
@@ -44,11 +68,17 @@
       "apps": [
         {
           "name": "Xposed框架",
-          "download_link": "https://example.com/xposed_framework.apk"
+          "download_link": {
+            "url": "https://example.com/xposed_framework.apk",
+            "is_direct": true
+          }
         },
         {
           "name": "任务管理器",
-          "download_link": "https://example.com/task_manager.apk"
+          "download_link": {
+            "url": "https://example.com/task_manager.apk",
+            "is_direct": false
+          }
         }
       ]
     }
@@ -60,7 +90,12 @@
       "download_links": {
         "windows": {
           "primary": "https://example.com/previous_version_1.0.0.exe",
-          "backup": "https://backup.example.com/previous_version_1.0.0.exe"
+          "backup": [
+            {
+              "url": "https://backup1.example.com/previous_version_1.0.0.exe",
+              "is_direct": true
+            }
+          ]
         }
       }
     }
