@@ -21,7 +21,7 @@
           "name": "联发科",
           "download_link": {
             "url": "https://url.jilin9527.top/lacsmtk",
-            "is_direct": false
+            "is_direct": true
           }
         }
       ]
