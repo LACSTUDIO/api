@@ -7,7 +7,7 @@
           "name": "安卓骁龙13",
           "download_link": {
             "url": "https://example.com/settings_helper.apk",
-            "is_direct": true
+            "is_direct": false
           }
         },
         {
@@ -33,13 +33,13 @@
           "name": "SuperSU",
           "download_link": {
             "url": "https://example.com/supersu.apk",
-            "is_direct": true
+            "is_direct": false
           }
         },
         {
-          "name": "Magisk",
+          "name": "Magisk-kitsune(27001)",
           "download_link": {
-            "url": "https://example.com/magisk.apk",
+            "url": "https://www.123684.com/s/0gTrVv-69EKd",
             "is_direct": false
           }
         }
