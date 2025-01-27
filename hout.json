@@ -8,7 +8,7 @@
   "notice": {
     "enabled": true,
     "content": "目前工具箱功能正在不断完善中！有bug请及时通过qq群或者在线表格进行反馈",
-    "link": true,
+    "link": false,
     "link_url": "https://www.example.com"
   },
   "previous_versions": [
