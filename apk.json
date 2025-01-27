@@ -1,0 +1,68 @@
+{
+  "apk_list": [
+    {
+      "category": "设置",
+      "apps": [
+        {
+          "name": "安卓骁龙13",
+          "download_link": {
+            "url": "https://example.com/settings_helper.apk",
+            "is_direct": true
+          }
+        },
+        {
+          "name": "安卓骁龙14",
+          "download_link": {
+            "url": "https://example.com/settings_helper.apk",
+            "is_direct": true
+          }
+        },
+        {
+          "name": "联发科",
+          "download_link": {
+            "url": "https://url.jilin9527.top/lacsmtk",
+            "is_direct": false
+          }
+        }
+      ]
+    },
+    {
+      "category": "SU",
+      "apps": [
+        {
+          "name": "SuperSU",
+          "download_link": {
+            "url": "https://example.com/supersu.apk",
+            "is_direct": true
+          }
+        },
+        {
+          "name": "Magisk",
+          "download_link": {
+            "url": "https://example.com/magisk.apk",
+            "is_direct": false
+          }
+        }
+      ]
+    },
+    {
+      "category": "玩机",
+      "apps": [
+        {
+          "name": "Xposed框架",
+          "download_link": {
+            "url": "https://example.com/xposed_framework.apk",
+            "is_direct": true
+          }
+        },
+        {
+          "name": "任务管理器",
+          "download_link": {
+            "url": "https://example.com/task_manager.apk",
+            "is_direct": false
+          }
+        }
+      ]
+    }
+  ]
+}
