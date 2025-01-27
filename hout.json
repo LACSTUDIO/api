@@ -2,21 +2,66 @@
   "latest_version": "1.0.0",
   "release_date": "2025-01-25",
   "download_links": {
-    "windows": "https://www.xn--5brr03o.top/"
+    "windows": {
+      "primary": "https://www.xn--5brr03o.top/",
+      "backup": "https://backup.xn--5brr03o.top/"
+    }
   },
   "content": "小而美",
   "notice": {
     "enabled": true,
-    "content": "新的一年祝大家刷机不砖，root不掉，系统没bug，身体健康，学业有成，工作顺利！目前工具箱功能正在不断完善中！有bug请及时通过qq群或者在线表格进行反馈",
-    "link": false,
-    "link_url": ""
+    "content": "新的一年祝大家刷机不砖，root不掉，系统没bug，身体健康，学业有成，工作顺利！目前工具箱功能正在不断完善中！有bug请及时通过qq群或者在线表格进行反馈"
   },
+  "apk_list": [
+    {
+      "category": "设置",
+      "apps": [
+        {
+          "name": "设置助手",
+          "download_link": "https://example.com/settings_helper.apk"
+        },
+        {
+          "name": "系统优化",
+          "download_link": "https://example.com/system_optimizer.apk"
+        }
+      ]
+    },
+    {
+      "category": "SU",
+      "apps": [
+        {
+          "name": "SuperSU",
+          "download_link": "https://example.com/supersu.apk"
+        },
+        {
+          "name": "Magisk",
+          "download_link": "https://example.com/magisk.apk"
+        }
+      ]
+    },
+    {
+      "category": "玩机",
+      "apps": [
+        {
+          "name": "Xposed框架",
+          "download_link": "https://example.com/xposed_framework.apk"
+        },
+        {
+          "name": "任务管理器",
+          "download_link": "https://example.com/task_manager.apk"
+        }
+      ]
+    }
+  ],
   "previous_versions": [
     {
       "version": "1.0.0",
       "release_date": "2025-01-30",
       "download_links": {
-        "windows": "6"
+        "windows": {
+          "primary": "https://example.com/previous_version_1.0.0.exe",
+          "backup": "https://backup.example.com/previous_version_1.0.0.exe"
+        }
       }
     }
   ]
