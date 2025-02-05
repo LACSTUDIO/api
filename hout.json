@@ -11,6 +11,12 @@
     "enabled": true,
     "content": "新的一年祝大家刷机不砖，root不掉，系统没bug，身体健康，学业有成，工作顺利！目前工具箱功能正在不断完善中！有bug请及时通过qq群或者在线表格进行反馈"
   },
+  "privacy_policy": {
+    "url": ""
+  },
+  "terms_of_use": {
+    "url": ""
+  },
   "previous_versions": [
     {
       "version": "1.0.0",
