@@ -13,15 +13,15 @@
         {
           "name": "安卓骁龙14",
           "download_link": {
-            "url": "https://vip.123pan.cn/1812009313/11711131",
-            "is_direct": true
+            "url": "https://www.123684.com/s/0gTrVv-IIEKd",
+            "is_direct": false
           }
         },
         {
           "name": "联发科",
           "download_link": {
-            "url": "https://vip.123pan.cn/1812009313/%E8%AE%BE%E7%BD%AEapk/%E8%81%94%E5%8F%91%E7%A7%91.apk",
-            "is_direct": true
+            "url": "https://www.123684.com/s/0gTrVv-wIEKd",
+            "is_direct": false
           }
         }
       ]
@@ -39,7 +39,7 @@
         {
           "name": "Magisk-kitsune(27001)",
           "download_link": {
-            "url": "https://vip.123pan.cn/1812009313/%E8%AE%BE%E7%BD%AEapk/Magisk-kitsune%2827001%29.apk",
+            "url": "https://github.com/HuskyDG/magisk-files/releases/download/1720171347/app-release.apk",
             "is_direct": true
           }
         }
@@ -52,7 +52,7 @@
           "name": "Xposed框架",
           "download_link": {
             "url": "https://example.com/xposed_framework.apk",
-            "is_direct": true
+            "is_direct": false
           }
         },
         {
@@ -71,7 +71,7 @@
           "name": "Xposed框架",
           "download_link": {
             "url": "https://example.com/xposed_framework.apk",
-            "is_direct": true
+            "is_direct": false
           }
         },
         {
