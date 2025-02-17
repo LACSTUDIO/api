@@ -1,15 +1,15 @@
 @echo off
-echo æ‰§è¡Œ Git æäº¤å’Œæ¨é€æ“ä½œ...
+echo Ö´ĞĞ Git Ìá½»ºÍÍÆËÍ²Ù×÷...
 
 git add .
-git commit -m "åŒæ­¥æ›´æ–°"
+git commit -m "Í¬²½¸üĞÂ"
 
-echo  æ¨é€ä»£ç åˆ° Gitee...
-git pull gitee master   # æ·»åŠ è¿™ä¸€æ­¥ï¼Œæ‹‰å–è¿œç¨‹æ›´æ–°
+echo  ÍÆËÍ´úÂëµ½ Gitee...
+git pull gitee master   # Ìí¼ÓÕâÒ»²½£¬À­È¡Ô¶³Ì¸üĞÂ
 git push gitee master
 
-echo æ¨é€ä»£ç åˆ° GitHub...
-git push github master:main   # æ˜ç¡®æŒ‡å®šæ¨é€çš„ç›®æ ‡åˆ†æ”¯
+echo ÍÆËÍ´úÂëµ½ GitHub...
+git push github master:main   # Ã÷È·Ö¸¶¨ÍÆËÍµÄÄ¿±ê·ÖÖ§
 
-echo æ‰€æœ‰ä»£ç å·²æ›´æ–°åˆ° Gitee å’Œ GitHubï¼
+echo ËùÓĞ´úÂëÒÑ¸üĞÂµ½ Gitee ºÍ GitHub£¡
 pause
