@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "latest_version": "1.0.0",
   "release_date": "2025-02-15",
@@ -29,3 +30,36 @@
     }
   ]
 }
+=======
+{
+  "latest_version": "1.0.0",
+  "release_date": "2025-02-15",
+  "download_links": {
+    "windows": {
+      "url": "https://pan.quark.cn/s/dcaef479f088"
+    }
+  },
+  "content": "小而美",
+  "notice": {
+    "enabled": true,
+    "content": "新的一年祝大家刷机不砖，root不掉，系统没bug，身体健康，学业有成，工作顺利！目前工具箱功能正在不断完善中！有bug请及时通过qq群或者在线表格进行反馈"
+  },
+  "privacy_policy": {
+    "url": "https://xn--9krq6q.xn--5brr03o.top/p/hout_zc/"
+  },
+  "terms_of_use": {
+    "url": "https://xn--9krq6q.xn--5brr03o.top/p/hout_tk/"
+  },
+  "previous_versions": [
+    {
+      "version": "1.0.0",
+      "release_date": "2025-01-30",
+      "download_links": {
+        "windows": {
+          "url": "https://www.xn--5brr03o.top/"
+        }
+      }
+    }
+  ]
+}
+>>>>>>> afe4e51a3e5240d4948884d624e5f9a9ee375129

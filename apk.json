@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "apk_list": [
     {
@@ -85,3 +86,92 @@
     }
   ]
 }
+=======
+{
+  "apk_list": [
+    {
+      "category": "设置",
+      "apps": [
+        {
+          "name": "安卓骁龙13",
+          "download_link": {
+            "url": "https://www.123684.com/s/0gTrVv-JIEKd",
+            "is_direct": false
+          }
+        },
+        {
+          "name": "安卓骁龙14",
+          "download_link": {
+            "url": "https://www.123684.com/s/0gTrVv-IIEKd",
+            "is_direct": false
+          }
+        },
+        {
+          "name": "联发科",
+          "download_link": {
+            "url": "https://www.123684.com/s/0gTrVv-wIEKd",
+            "is_direct": false
+          }
+        }
+      ]
+    },
+    {
+      "category": "SU",
+      "apps": [
+        {
+          "name": "SuperSU",
+          "download_link": {
+            "url": "https://example.com/supersu.apk",
+            "is_direct": false
+          }
+        },
+        {
+          "name": "Magisk-kitsune(27001)",
+          "download_link": {
+            "url": "https://github.com/HuskyDG/magisk-files/releases/download/1720171347/app-release.apk",
+            "is_direct": true
+          }
+        }
+      ]
+    },
+    {
+      "category": "玩机",
+      "apps": [
+        {
+          "name": "Xposed框架",
+          "download_link": {
+            "url": "https://example.com/xposed_framework.apk",
+            "is_direct": false
+          }
+        },
+        {
+          "name": "任务管理器",
+          "download_link": {
+            "url": "https://example.com/task_manager.apk",
+            "is_direct": false
+          }
+        }
+      ]
+    },
+    {
+      "category": "玩机",
+      "apps": [
+        {
+          "name": "Xposed框架",
+          "download_link": {
+            "url": "https://example.com/xposed_framework.apk",
+            "is_direct": false
+          }
+        },
+        {
+          "name": "任务管理器",
+          "download_link": {
+            "url": "https://example.com/task_manager.apk",
+            "is_direct": false
+          }
+        }
+      ]
+    }
+  ]
+}
+>>>>>>> afe4e51a3e5240d4948884d624e5f9a9ee375129
