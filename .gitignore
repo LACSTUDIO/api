@@ -2,3 +2,5 @@
 .vscode/*
 *.bat
 *.ini
+.git/
+.git/*
