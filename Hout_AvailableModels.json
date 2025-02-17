@@ -1,0 +1,647 @@
+{
+  "status": "ok",
+  "list": [
+    {
+        "model": "红米14R 5G / POCO M7 5G",
+        "dh": "flame",
+        "date": "2024-09-12",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米14C / 红米A3 Pro / POCO C75",
+        "dh": "lake",
+        "date": "2024-08-30",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米平板SE 8.7 WiFi",
+        "dh": "flare",
+        "date": "2024-08-08",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米平板SE 8.7 4G",
+        "dh": "spark",
+        "date": "2024-08-08",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米13 5G / 红米Note 13R / POCO M6 Plus 5G",
+        "dh": "breeze",
+        "date": "2024-08-05",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米MIX Flip",
+        "dh": "ruyi",
+        "date": "2024-07-19",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米MIX Fold 4",
+        "dh": "goku",
+        "date": "2024-07-19",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米A3x",
+        "dh": "klein",
+        "date": "2024-05-24",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米Turbo 3 / POCO F6",
+        "dh": "peridot",
+        "date": "2024-04-10",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米平板 Pro 5G / POCO Pad 5G",
+        "dh": "ruan",
+        "date": "2024-04-10",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米平板 Pro",
+        "dh": "dizi",
+        "date": "2024-04-10",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米CIVI 4 Pro / 小米14 Civi",
+        "dh": "chenfeng",
+        "date": "2024-03-21",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米A3 / POCO C61",
+        "dh": "blue",
+        "date": "2024-02-23",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米平板6S Pro 12.4",
+        "dh": "sheng",
+        "date": "2024-02-22",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米13 / POCO M6",
+        "dh": "moon",
+        "date": "2023-12-26",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米13R 5G / 红米13C 5G",
+        "dh": "air",
+        "date": "2023-12-08",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米13C / POCO C65",
+        "dh": "gale",
+        "date": "2023-11-10",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米平板SE",
+        "dh": "xun",
+        "date": "2023-08-15",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米MIX Fold 3",
+        "dh": "babylon",
+        "date": "2023-08-14",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米K60 至尊版 / 小米13T Pro",
+        "dh": "corot",
+        "date": "2023-08-14",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米平板6 Max",
+        "dh": "yudi",
+        "date": "2023-08-14",
+        "vs": "2.0"
+    },
+    {
+        "model": "POCO M6 Pro 4G",
+        "dh": "emerald",
+        "date": "2023-08-05",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米Note12R / POCO M6 Pro 5G / 红米12 5G",
+        "dh": "sky",
+        "date": "2023-06-23",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米12",
+        "dh": "fire",
+        "date": "2023-06-03",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米Note12T Pro",
+        "dh": "pearl",
+        "date": "2023-05-29",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米CIVI3",
+        "dh": "yuechu",
+        "date": "2023-05-25",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米Note12S",
+        "dh": "sea",
+        "date": "2023-04-26",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米13 Ultra",
+        "dh": "ishtar",
+        "date": "2023-04-18",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米平板6 Pro",
+        "dh": "liuqin",
+        "date": "2023-04-18",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米平板6",
+        "dh": "pipa",
+        "date": "2023-04-18",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米Note12 Pro 4G",
+        "dh": "sweet_k6a",
+        "date": "2023-04-11",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米Note12 4G NFC",
+        "dh": "topaz",
+        "date": "2023-03-30",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米Note12 4G",
+        "dh": "tapas",
+        "date": "2023-03-30",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米Note12 Turbo / POCO F5 5G",
+        "dh": "marble",
+        "date": "2023-03-28",
+        "vs": "2.0"
+    },
+    {
+        "model": "POCO C51 / 红米A2 / A2+",
+        "dh": "water",
+        "date": "2023-03-24",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米12C / POCO C55",
+        "dh": "earth",
+        "date": "2022-12-31",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米Note12 Pro 极速版 / POCO X5 Pro 5G",
+        "dh": "redwood",
+        "date": "2022-12-27",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米K60E",
+        "dh": "rembrandt",
+        "date": "2022-12-27",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米K60 Pro",
+        "dh": "socrates",
+        "date": "2022-12-27",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米K60 / POCO F5 Pro",
+        "dh": "mondrian",
+        "date": "2022-12-27",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米13 Pro",
+        "dh": "nuwa",
+        "date": "2022-12-12",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米13",
+        "dh": "fuxi",
+        "date": "2022-12-12",
+        "vs": "2.0"
+    },
+    {
+        "model": "POCO X5 5G",
+        "dh": "moonstone",
+        "date": "2022-11-20",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米Note12 5G / 红米Note12R Pro",
+        "dh": "sunstone",
+        "date": "2022-10-27",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米Note12 Pro+",
+        "dh": "ruby",
+        "date": "2022-10-27",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米12T",
+        "dh": "plato",
+        "date": "2022-10-04",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米平板",
+        "dh": "yunluo",
+        "date": "2022-10-04",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米CIVI 2 / 小米13 Lite",
+        "dh": "ziyi",
+        "date": "2022-09-27",
+        "vs": "2.0"
+    },
+    {
+        "model": "POCO C50 / 红米A1",
+        "dh": "ice",
+        "date": "2022-09-15",
+        "vs": "2.0"
+    },
+    {
+        "model": "POCO M5S",
+        "dh": "rosemary_p",
+        "date": "2022-09-05",
+        "vs": "2.0"
+    },
+    {
+        "model": "POCO M5 / 红米11 Prime 4G",
+        "dh": "rock",
+        "date": "2022-09-05",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米平板5 Pro 12.4",
+        "dh": "dagu",
+        "date": "2022-08-11",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米K50 至尊版 / 小米12T Pro",
+        "dh": "diting",
+        "date": "2022-08-11",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米MIX Fold 2",
+        "dh": "zizhan",
+        "date": "2022-08-11",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米12S",
+        "dh": "mayfly",
+        "date": "2022-07-04",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米12S Ultra",
+        "dh": "thor",
+        "date": "2022-07-04",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米12S Pro",
+        "dh": "unicorn",
+        "date": "2022-07-04",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米12 Pro 天玑版",
+        "dh": "daumier",
+        "date": "2022-07-04",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米12 Lite",
+        "dh": "taoyao",
+        "date": "2022-07-04",
+        "vs": "2.0"
+    },
+    {
+        "model": "POCO C40",
+        "dh": "frost",
+        "date": "2022-06-17",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米Note11T Pro / Pro+ / POCO X4 GT / Pro / 红米K50i / Pro",
+        "dh": "xaga",
+        "date": "2022-05-24",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米CIVI 1S",
+        "dh": "zijin",
+        "date": "2022-04-21",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米Note 10T",
+        "dh": "lilac",
+        "date": "2022-04-14",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米10A",
+        "dh": "dandelion",
+        "date": "2022-03-29",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米10C",
+        "dh": "fog",
+        "date": "2022-03-17",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米K50",
+        "dh": "rubens",
+        "date": "2022-03-17",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米K50 Pro",
+        "dh": "matisse",
+        "date": "2022-03-17",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米K40S / POCO F4",
+        "dh": "munch",
+        "date": "2022-03-17",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米Note11 Pro",
+        "dh": "viva",
+        "date": "2022-03-07",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米Note11R",
+        "dh": "lightcm",
+        "date": "2022-03-07",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米Note11E / POCO M4 5G / 红米10 Prime+ 5G",
+        "dh": "light",
+        "date": "2022-03-07",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米K50 电竞版 / POCO F4 GT",
+        "dh": "ingres",
+        "date": "2022-02-16",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米Note11 NFC",
+        "dh": "spesn",
+        "date": "2022-02-07",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米Note11",
+        "dh": "spes",
+        "date": "2022-02-07",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米Note11E Pro / 红米Note11 Pro 5G",
+        "dh": "veux",
+        "date": "2022-01-26",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米Note 11S 5G",
+        "dh": "opal",
+        "date": "2022-01-26",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米Note 11S / POCO M4 Pro 4G",
+        "dh": "fleur",
+        "date": "2022-01-26",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米12 Pro",
+        "dh": "zeus",
+        "date": "2021-12-28",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米12X",
+        "dh": "psyche",
+        "date": "2021-12-28",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米12",
+        "dh": "cupid",
+        "date": "2021-12-28",
+        "vs": "2.0"
+    },
+    {
+        "model": "POCO M4 Pro 5G",
+        "dh": "evergreen",
+        "date": "2021-11-09",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米Note11 Pro / Pro+",
+        "dh": "pissarro",
+        "date": "2021-10-28",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米Note11 5G",
+        "dh": "evergo",
+        "date": "2021-10-28",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米CIVI",
+        "dh": "mona",
+        "date": "2021-09-27",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米11青春活力版",
+        "dh": "lisa",
+        "date": "2021-09-15",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米11T",
+        "dh": "agate",
+        "date": "2021-09-15",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米11T Pro",
+        "dh": "vili",
+        "date": "2021-09-15",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米10",
+        "dh": "selene",
+        "date": "2021-08-19",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米MIX4",
+        "dh": "odin",
+        "date": "2021-08-10",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米平板5 Pro (WiFi)",
+        "dh": "elish",
+        "date": "2021-08-10",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米平板5 Pro (5G)",
+        "dh": "enuma",
+        "date": "2021-08-10",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米平板5",
+        "dh": "nabu",
+        "date": "2021-08-10",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米K40 游戏增强版 / POCO F3 GT",
+        "dh": "ares",
+        "date": "2021-04-27",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米MIX Fold",
+        "dh": "cetus",
+        "date": "2021-03-29",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米11 青春版",
+        "dh": "renoir",
+        "date": "2021-03-29",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米11 Pro / Ultra",
+        "dh": "star",
+        "date": "2021-03-29",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米11 Lite",
+        "dh": "courbet",
+        "date": "2021-03-29",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米10S",
+        "dh": "thyme",
+        "date": "2021-03-10",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米K40 Pro / Pro+ / 小米11i / 小米11X Pro",
+        "dh": "haydn",
+        "date": "2021-02-25",
+        "vs": "2.0"
+    },
+    {
+        "model": "红米K40 / POCO F3",
+        "dh": "alioth",
+        "date": "2021-02-25",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米11",
+        "dh": "venus",
+        "date": "2020-12-28",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米10 至尊纪念版",
+        "dh": "cas",
+        "date": "2020-08-11",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米Note10 Lite",
+        "dh": "toco",
+        "date": "2020-05-30",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米10 青春版",
+        "dh": "vangogh",
+        "date": "2020-04-27",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米10 Lite",
+        "dh": "monet",
+        "date": "2020-03-27",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米10 Pro",
+        "dh": "cmi",
+        "date": "2020-02-13",
+        "vs": "2.0"
+    },
+    {
+        "model": "小米10",
+        "dh": "umi",
+        "date": "2020-02-13",
+        "vs": "2.0"
+    }
+  ]
+}
