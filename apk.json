@@ -17,7 +17,7 @@
           "download_link_2": {
             "url": "https://api.xn--5brr03o.top/apk/QTI13.7z",
             "is_direct": true,
-            "type": "apk"
+            "type": "7z"
           }
         },
         {
@@ -34,7 +34,7 @@
           "download_link_2": {
             "url": "https://api.xn--5brr03o.top/apk/QTI14.7z",
             "is_direct": true,
-            "type": "apk"
+            "type": "7z"
           }
         },
         {
@@ -51,7 +51,7 @@
           "download_link_2": {
             "url": "https://api.xn--5brr03o.top/apk/Mediatek.7z",
             "is_direct": true,
-            "type": "apk"
+            "type": "7z"
           }
         }
       ]
