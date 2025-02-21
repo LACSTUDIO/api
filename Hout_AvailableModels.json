@@ -50,12 +50,6 @@
         "vs": "2.0"
     },
     {
-        "model": "红米Turbo 3 / POCO F6",
-        "dh": "peridot",
-        "date": "2024-04-10",
-        "vs": "2.0"
-    },
-    {
         "model": "红米平板 Pro 5G / POCO Pad 5G",
         "dh": "ruan",
         "date": "2024-04-10",
@@ -125,12 +119,6 @@
         "model": "小米平板6 Max",
         "dh": "yudi",
         "date": "2023-08-14",
-        "vs": "2.0"
-    },
-    {
-        "model": "POCO M6 Pro 4G",
-        "dh": "emerald",
-        "date": "2023-08-05",
         "vs": "2.0"
     },
     {
