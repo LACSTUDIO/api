@@ -4,3 +4,4 @@
 *.ini
 .git/
 .git/*
+.idea/*
