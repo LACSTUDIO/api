@@ -9,12 +9,12 @@
   "content": "小而美",
   "notice": {
     "enabled": true,
-    "content": "新的一年祝大家刷机不砖，root不掉，系统没bug，身体健康，学业有成，工作顺利！\n目前工具箱功能正在不断完善中！有bug请及时通过qq群或者在线表格进行反馈"
+    "content": "目前工具箱功能正在不断完善中！有bug请及时通过qq群或者在线表格进行反馈\nqq群号：676581092"
   },
   "previous_versions": [
     {
-      "version": "1.0.0",
-      "release_date": "2025-02-15",
+      "version": "2.0.0",
+      "release_date": "2025-04-11",
       "content": "功能板块：GUI主页面、ADB安装、ADBTools、RunBat、Bypass界面；\n其他功能：自动更新、自动获取公告；\nADB检测：输出设备信息并判断是否可解锁；\nADB安装：支持本地或在线安装；\n任务功能：调用解锁工具、一键解锁、检测远程工具进程。"
     },
     {
