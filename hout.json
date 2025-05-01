@@ -13,8 +13,13 @@
   },
   "previous_versions": [
     {
+      "version": "2.0.2Stable,内部版本:1.0.1.post2",
+      "release_date": "2025-05-02",
+      "content": "优化云端下载解压运行整体逻辑"
+    },
+    {
       "version": "2.0.1Stable,内部版本:1.0.1.post1",
-      "release_date": "2025-04-30",
+      "release_date": "2025-05-01",
       "content": "将快捷方式的新增方式改到工具内部\n优化检测特殊进程的逻辑\n减小工具体积\n优化首次启动相关逻辑"
     },
     {
