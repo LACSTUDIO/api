@@ -1,11 +1,21 @@
 {
   "zip_list": [
+      {
+      "name": "driver",
+      "openapp_name":"driver.exe",
+      "download_links": [
+        {
+          "url": "https://gitee.com/lacsgf/file/raw/main/driver.7z",
+          "is_direct": true
+        }
+      ]
+    },
     {
       "name": "bypass",
       "openapp_name":"bypass.cmd",
       "download_links": [
         {
-          "url": "https://gitee.com/lacsgf/api/raw/main/files/bypass.7z",
+          "url": "https://gitee.com/lacsgf/file/raw/main/bypass.7z",
           "is_direct": true
         },
         {
