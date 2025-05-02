@@ -1,24 +1,34 @@
 {
-  "latest_version": "1.0.0",
-  "release_date": "2025-02-15",
+  "latest_version": "1.0.1.post1",
+  "release_date": "2025-05-01",
   "download_links": {
     "windows": {
-      "url": "https://pan.quark.cn/s/dcaef479f088"
+      "url": "https://pan.quark.cn/s/e46102989aab"
     }
   },
-  "content": "小而美",
+  "content": "取消打包安装程序改为直接运行\n将快捷方式的新增方式改到工具内部\n优化检测特殊进程的逻辑\n减小工具体积\n优化首次启动相关逻辑",
   "notice": {
     "enabled": true,
     "content": "目前工具箱功能正在不断完善中！有bug请及时通过qq群或者在线表格进行反馈\nqq群号：676581092"
   },
   "previous_versions": [
     {
-      "version": "2.0.0",
-      "release_date": "2025-04-15",
+      "version": "2.0.2Stable,内部版本:1.0.1.post2",
+      "release_date": "2025-05-02",
+      "content": "优化云端下载解压运行整体逻辑"
+    },
+    {
+      "version": "2.0.1Stable,内部版本:1.0.1.post1",
+      "release_date": "2025-05-01",
+      "content": "将快捷方式的新增方式改到工具内部\n优化检测特殊进程的逻辑\n减小工具体积\n优化首次启动相关逻辑"
+    },
+    {
+      "version": "2.0.0Stable,内部版本:1.0.1",
+      "release_date": "2025-04-30",
       "content": "功能板块：GUI主页面、ADB安装、ADBTools、RunBat、Bypass界面；\n其他功能：自动更新、自动获取公告；\nADB检测：输出设备信息并判断是否可解锁；\nADB安装：支持本地或在线安装；\n任务功能：调用解锁工具、一键解锁、检测远程工具进程。"
     },
     {
-      "version": "1.0.0",
+      "version": "2.0.0Beta",
       "release_date": "2025-02-15",
       "content": "功能板块：GUI主页面、ADB安装、ADBTools、RunBat、Bypass界面；\n其他功能：自动更新、自动获取公告；\nADB检测：输出设备信息并判断是否可解锁；\nADB安装：支持本地或在线安装；\n任务功能：调用解锁工具、一键解锁、检测远程工具进程。"
     }

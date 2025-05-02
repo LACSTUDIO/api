@@ -1,26 +1,38 @@
 {
-    "zip_list": [
+  "list": [
       {
-        "name": "bypass",
-        "download_links": [
-          {
-            "url": "https://gitee.com/lacsgf/api/raw/main/files/bypass.7z",
-            "is_direct": true
-          },
-          {
-            "url": "https://api.xn--5brr03o.top/files/bypass.7z",
-            "is_direct": true
-          }
-        ]
-      },
-      {
-        "name": "miflash_unlock",
-        "download_links": [
-          {
-            "url": "https://cdn.cnbj1.fds.api.mi-img.com/flash-tool/miflash_unlock_7.6.727.43.zip",
-            "is_direct": true
-          }
-        ]
-      }
-    ]
-  }
+      "name": "driver",
+      "openapp_name":"driver.exe",
+      "download_links": [
+        {
+          "url": "https://gitee.com/lacsgf/file/raw/main/driver.7z",
+          "is_direct": true
+        }
+      ]
+    },
+    {
+      "name": "bypass",
+      "openapp_name":"bypass.cmd",
+      "download_links": [
+        {
+          "url": "https://gitee.com/lacsgf/file/raw/main/bypass.7z",
+          "is_direct": true
+        },
+        {
+          "url": "https://api.xn--5brr03o.top/files/bypass.7z",
+          "is_direct": true
+        }
+      ]
+    },
+    {
+      "name": "miflash_unlock_7.6.727.43",
+    "openapp_name":"miflash_unlock.exe",
+      "download_links": [
+        {
+          "url": "https://cdn.cnbj1.fds.api.mi-img.com/flash-tool/miflash_unlock_7.6.727.43.zip",
+          "is_direct": true
+        }
+      ]
+    }
+  ]
+}
