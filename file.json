@@ -1,5 +1,5 @@
 {
-  "zip_list": [
+  "list": [
       {
       "name": "driver",
       "openapp_name":"driver.exe",
@@ -25,7 +25,7 @@
       ]
     },
     {
-      "name": "miflash_unlock",
+      "name": "miflash_unlock_7.6.727.43",
     "openapp_name":"miflash_unlock.exe",
       "download_links": [
         {
