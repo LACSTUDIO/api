@@ -11,6 +11,23 @@
     "enabled": true,
     "content": "目前工具箱功能正在不断完善中！有bug请及时通过qq群或者在线表格进行反馈\nqq群号：676581092"
   },
+  "thanks":[
+    {
+      "name":"mlgmxyysd",
+      "url":"https://github.com/mlgmxyysd",
+      "content":"感谢大佬的Xiaomi-HyperOS-BootLoader-Bypass项目"
+    },
+    {
+      "name":"Hami",
+      "url":"https://jilin9527.top/",
+      "content":"感谢对本项目的思路提供以及帮助"
+    },
+    {
+      "name":"雪糕小豪",
+      "url":"hhttp://www.coolapk.com/u/24524599",
+      "content":"感谢对本项目的思路提供以及帮助"
+    }
+  ],
   "previous_versions": [
     {
       "version": "2.0.2Stable,内部版本:1.0.1.post2",
