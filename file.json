@@ -5,7 +5,7 @@
       "openapp_name":"driver.exe",
       "download_links": [
         {
-          "url": "https://gitee.com/lacsgf/file/raw/main/driver.7z",
+          "url": "https://url.jilin9527.top/lacsdriver",
           "is_direct": true
         }
       ]
@@ -15,7 +15,7 @@
       "openapp_name":"bypass.cmd",
       "download_links": [
         {
-          "url": "https://gitee.com/lacsgf/file/raw/main/bypass.7z",
+          "url": "https://url.jilin9527.top/lacsbypass",
           "is_direct": true
         },
         {
