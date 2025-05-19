@@ -60,7 +60,7 @@
   "bat_content": "取消打包安装程序改为直接运行\n将快捷方式的新增方式改到工具内部\n优化检测特殊进程的逻辑\n减小工具体积\n优化首次启动相关逻辑",
   "bat_notice": {
     "enabled": true,
-    "content": "目前工具箱功能正在不断完善中！有bug请及时通过qq群或者在线表格进行反馈\nqq群号：676581092"
+    "content": "有bug请及时通过qq群或者在线表格进行反馈\nqq群号：676581092"
   },
   "bat_previous_versions": [
     {
