@@ -8,16 +8,6 @@
           "download_link": {
             "url": "https://url.jilin9527.top/lacsqc13",
             "is_direct": true
-          },
-          "download_link_1": {
-            "url": "https://gitee.com/lacsgf/api/raw/main/apk/settings/QTI13.7z",
-            "is_direct": true,
-            "type": "7z"
-          },
-          "download_link_2": {
-            "url": "https://api.xn--5brr03o.top/apk/QTI13.7z",
-            "is_direct": true,
-            "type": "7z"
           }
         },
         {
@@ -25,16 +15,6 @@
           "download_link": {
             "url": "https://url.jilin9527.top/lacsqc14",
             "is_direct": true
-          },
-          "download_link_1": {
-            "url": "https://gitee.com/lacsgf/api/raw/main/apk/settings/QTI14.7z",
-            "is_direct": true,
-            "type": "7z"
-          },
-          "download_link_2": {
-            "url": "https://api.xn--5brr03o.top/apk/QTI14.7z",
-            "is_direct": true,
-            "type": "7z"
           }
         },
         {
@@ -42,16 +22,6 @@
           "download_link": {
             "url": "https://url.jilin9527.top/lacsmtk",
             "is_direct": true
-          },
-          "download_link_1": {
-            "url": "https://gitee.com/lacsgf/api/raw/main/apk/settings/Mediatek.7z",
-            "is_direct": true,
-            "type": "7z"
-          },
-          "download_link_2": {
-            "url": "https://api.xn--5brr03o.top/apk/Mediatek.7z",
-            "is_direct": true,
-            "type": "7z"
           }
         }
       ]
