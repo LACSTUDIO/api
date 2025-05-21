@@ -54,7 +54,7 @@
   "bat_release_date": "2025-05-21",
   "bat_download_links": {
     "windows": {
-      "url": "https://pan.quark.cn/s/7c7537095f56"
+      "url": "https://pan.quark.cn/s/15ba94fcde96"
     }
   },
   "bat_content": "取消打包安装程序改为直接运行\n将快捷方式的新增方式改到工具内部\n优化检测特殊进程的逻辑\n减小工具体积\n优化首次启动相关逻辑",
