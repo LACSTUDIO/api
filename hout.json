@@ -51,10 +51,10 @@
     }
   ],
   "bat_latest_version": "1.5",
-  "bat_release_date": "2025-05-19",
+  "bat_release_date": "2025-05-21",
   "bat_download_links": {
     "windows": {
-      "url": "https://pan.quark.cn/s/e46102989aab"
+      "url": "https://pan.quark.cn/s/7c7537095f56"
     }
   },
   "bat_content": "取消打包安装程序改为直接运行\n将快捷方式的新增方式改到工具内部\n优化检测特殊进程的逻辑\n减小工具体积\n优化首次启动相关逻辑",
@@ -63,6 +63,11 @@
     "content": "有bug请及时通过qq群或者在线表格进行反馈\nqq群号：676581092"
   },
   "bat_previous_versions": [
+    {
+      "version": "v1.5",
+      "release_date": "2025-05-21",
+      "content": "版本: v1.5临时版\n发布日期: 2025-05-21\n内容:\n1. 新增：结构化设计、直联下载apk文件\n2. 优化：界面显示效果、简化首次使用提示以及工具欢迎界面\n3. 更改：精简部分代码、简化工具本体大小"
+    },
     {
       "version": "v1.4",
       "release_date": "2024-08-19",
