@@ -46,7 +46,7 @@
       "model": "小米15",
       "dh": "dada",
       "date": "2024-10-29",
-      "unlock_type": "official"
+      "unlock_type": "answer"
     },
     {
       "model": "小米平板7 Pro",
@@ -416,7 +416,7 @@
     },
     {
       "model": "小米13",
-      "dh": "fuxi",
+      "dh": "hout",
       "date": "2022-12-12",
       "unlock_type": "official"
     },
@@ -748,7 +748,7 @@
       "model": "红米K40 游戏增强版 / POCO F3 GT",
       "dh": "ares",
       "date": "2021-04-27",
-      "unlock_type": "official"
+      "unlock_type": "mtk"
     },
     {
       "model": "小米MIX Fold",
