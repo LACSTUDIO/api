@@ -50,19 +50,25 @@
       "content": "功能板块：GUI主页面、ADB安装、ADBTools、RunBat、Bypass界面；\n其他功能：自动更新、自动获取公告；\nADB检测：输出设备信息并判断是否可解锁；\nADB安装：支持本地或在线安装；\n任务功能：调用解锁工具、一键解锁、检测远程工具进程。"
     }
   ],
-  "bat_latest_version": "1.5",
-  "bat_release_date": "2025-05-21",
+  "bat_latest_version": "1.6",
+  "bat_release_date": "2025-06-02",
   "bat_download_links": {
     "windows": {
-      "url": "https://pan.quark.cn/s/15ba94fcde96"
+      "url": "https://pan.quark.cn/s/b19b6e8c380c"
     }
   },
-  "bat_content": "取消打包安装程序改为直接运行\n将快捷方式的新增方式改到工具内部\n优化检测特殊进程的逻辑\n减小工具体积\n优化首次启动相关逻辑",
+  "bat_content": "1. 新增：打包为exe文件，打开解压完成自动启动工具\n2. 优化：apk下载相关，云端下载文件逻辑\n3. 更改：精简部分代码、简化工具本体大小\n",
+
   "bat_notice": {
     "enabled": true,
     "content": "有bug请及时通过qq群或者在线表格进行反馈\nqq群号：676581092"
   },
   "bat_previous_versions": [
+    {
+      "version": "v1.6",
+      "release_date": "2025-06-02",
+      "content": "1. 新增：打包为exe文件，打开解压完成自动启动工具\n2. 优化：apk下载相关，云端下载文件逻辑\n3. 更改：精简部分代码、简化工具本体大小\n"
+    },
     {
       "version": "v1.5",
       "release_date": "2025-05-21",
