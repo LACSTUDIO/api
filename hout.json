@@ -54,7 +54,9 @@
   "bat_release_date": "2025-06-02",
   "bat_download_links": {
     "windows": {
-      "url": "https://pan.quark.cn/s/b19b6e8c380c"
+      "url": "https://pan.quark.cn/s/b19b6e8c380c",
+      "xunlei":"https://pan.xunlei.com/s/VORoo0b1YqU5M8lOOFk06XqDA1?pwd=kte3#",
+      "quark": "https://pan.quark.cn/s/e46102989aab"
     }
   },
   "bat_content": "1. 新增：打包为exe文件，打开解压完成自动启动工具\n2. 优化：apk下载相关，云端下载文件逻辑\n3. 更改：精简部分代码、简化工具本体大小",
