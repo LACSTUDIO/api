@@ -3,7 +3,9 @@
   "release_date": "2025-05-01",
   "download_links": {
     "windows": {
-      "url": "https://pan.quark.cn/s/e46102989aab"
+      "url": "https://pan.quark.cn/s/e46102989aab",
+      "xunlei":"https://pan.xunlei.com/s/VORzGvKgCNokJMJXCuv4dhLmA1?pwd=7gv4#",
+      "quark": "https://pan.quark.cn/s/e46102989aab"
     }
   },
   "content": "取消打包安装程序改为直接运行\n将快捷方式的新增方式改到工具内部\n优化检测特殊进程的逻辑\n减小工具体积\n优化首次启动相关逻辑",
@@ -56,7 +58,7 @@
     "windows": {
       "url": "https://pan.quark.cn/s/b19b6e8c380c",
       "xunlei":"https://pan.xunlei.com/s/VORoo0b1YqU5M8lOOFk06XqDA1?pwd=kte3#",
-      "quark": "https://pan.quark.cn/s/e46102989aab"
+      "quark": "https://pan.quark.cn/s/b19b6e8c380c"
     }
   },
   "bat_content": "1. 新增：打包为exe文件，打开解压完成自动启动工具\n2. 优化：apk下载相关，云端下载文件逻辑\n3. 更改：精简部分代码、简化工具本体大小",
