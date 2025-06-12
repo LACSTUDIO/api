@@ -1,36 +1,38 @@
 {
   "list": [
-      {
+    {
       "name": "driver",
-      "openapp_name":"driver.exe",
+      "type": "7z",
+      "openapp_name": "driver.exe",
       "download_links": [
         {
-          "url": "https://url.jilin9527.top/lacsdriver",
-          "is_direct": true
+          "url": "https://urls.lacs.cc/hout-tools-driver"
+        },{
+          "url": "https://vip.123pan.cn/1812009313/21866419"
         }
       ]
     },
     {
       "name": "bypass",
-      "openapp_name":"bypass.cmd",
+      "type": "7z",
+      "openapp_name": "bypass.cmd",
       "download_links": [
         {
-          "url": "https://url.jilin9527.top/lacsbypass",
-          "is_direct": true
-        },
-        {
-          "url": "https://api.xn--5brr03o.top/files/bypass.7z",
-          "is_direct": true
+          "url": "https://urls.lacs.cc/hout-tools-bypass"
+        },{
+          "url": "https://vip.123pan.cn/1812009313/21866427"
         }
       ]
     },
     {
       "name": "miflash_unlock_7.6.727.43",
-    "openapp_name":"miflash_unlock.exe",
+      "type": "zip",
+      "openapp_name": "miflash_unlock.exe",
       "download_links": [
         {
-          "url": "https://cdn.cnbj1.fds.api.mi-img.com/flash-tool/miflash_unlock_7.6.727.43.zip",
-          "is_direct": true
+          "url": "https://cdn.cnbj1.fds.api.mi-img.com/flash-tool/miflash_unlock_7.6.727.43.zip"
+        },{
+          "url": "https://vip.123pan.cn/1812009313/21866422"
         }
       ]
     }
